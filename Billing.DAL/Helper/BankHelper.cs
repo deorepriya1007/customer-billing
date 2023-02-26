@@ -2,6 +2,7 @@
 
 namespace Billing.DAL.Helpers
 {
+    
     public static class BankHelper
     {
         public static string getBankName(string SearchKey)
